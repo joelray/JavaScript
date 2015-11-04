@@ -1,3 +1,3 @@
 # JavaScript
 
-A bunch of reusable classes
+A bunch of reusable classes, snippets
